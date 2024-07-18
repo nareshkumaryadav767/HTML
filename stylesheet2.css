@@ -1,0 +1,14 @@
+a{
+    background-color: red;
+}
+a[target]{
+    background-color: yellow;
+}
+
+/* #rajni{
+    background-color: yellow;
+} */
+
+*{  background-color:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
